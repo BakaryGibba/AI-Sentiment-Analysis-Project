@@ -45,7 +45,7 @@ This project is licensed under the MIT License. See the **'LICENSE'** file for d
 * Flask for the web Framework
 * The BERT team for the sentiment analysis model.
 
-
+## The Interface: 
 
 
 <img width="958" alt="Screenshot 2024-07-19 160023" src="https://github.com/user-attachments/assets/a697dfff-af6b-43d8-b7cc-d2c038a5cb63">
